@@ -70,10 +70,3 @@ npm run dev
 ```
 
 The app will be available at `http://localhost:5173` (Vite's default) and expects the backend to be running at `http://localhost:8000`.
-
-## Possible future improvements
-
-- Configurable API base URL via an environment variable instead of a hardcoded `localhost:8000`
-- Allow re-opening a cancelled appointment
-- Multi-day/week calendar view in addition to the card board
-- Basic auth so appointments can be attributed to a specific team member
